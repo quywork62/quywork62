@@ -87,11 +87,7 @@ Through this journey, I have opportunities to support beginners, share learning 
 
 ---
 
-## 📊 GitHub Stats
 
-![Quy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quywork62&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quywork62&layout=compact&theme=tokyonight)
 
 ---
 
